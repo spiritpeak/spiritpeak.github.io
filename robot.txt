@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /
+Disallow: /background
+Disallow: /css
+Disallow: /fancybox
+Disallow: /font-awesome
+Disallow: /img
+Disallow: /js
+Sitemap: http://spiritpeak.github.io/sitemap.xml
+Sitemap: http://spiritpeak.github.io/baidusitemap.xml
